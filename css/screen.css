@@ -69,6 +69,10 @@ td {
   border-bottom: 1px solid #ddd;
 }
 
+table td + td { 
+  border-left:1px solid #ddd; 
+}
+
 /*****************************************************************************/
 /*
 /* Home
