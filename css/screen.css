@@ -48,17 +48,21 @@ a:visited {
 
 table {
   font-size: inherit;
-  font: 75%;
+  font: 100%;
 }
 
 table th {
   text-align: left;
   vertical-align: text-top;
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
 }
 
 table tr {
   text-align: left;
   vertical-align: text-top;
+  border-bottom: 1px solid #ddd;
+  padding: 15px;
 }
 
 /*****************************************************************************/
