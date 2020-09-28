@@ -51,6 +51,16 @@ table {
   font: 100%;
 }
 
+table th {
+  text-align: left;
+  vertical-align: text-top;
+}
+
+table tr {
+  text-align: left;
+  vertical-align: text-top;
+}
+
 /*****************************************************************************/
 /*
 /* Home
