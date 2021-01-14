@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Covid-19: why the working class had to fight for itself
+title: Covid-19 - why the working class had to fight for itself
 ---
 
 {{ page.title }}
